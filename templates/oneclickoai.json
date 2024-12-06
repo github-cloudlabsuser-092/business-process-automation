@@ -611,7 +611,7 @@
           "appSettings": [
             {
               "name": "WEBSITE_RUN_FROM_PACKAGE",
-              "value": "1"
+              "value": "https://experienceazure.blob.core.windows.net/templates/business-process-automation/files/functionappfiles/hf_backend_v012.zip?sp=racw&st=2024-11-29T16:08:03Z&se=2025-11-30T00:08:03Z&spr=https&sv=2022-11-02&sr=c&sig=VysFSaYtYOnN1Ty0cOx4hnVLDGag3tWJDpfEOMSrG3Y%3D"
             },
             {
               "name": "APPINSIGHTS_INSTRUMENTATIONKEY",
@@ -702,7 +702,7 @@
           "appSettings": [
             {
               "name": "WEBSITE_RUN_FROM_PACKAGE",
-              "value": "1"
+              "value": "https://experienceazure.blob.core.windows.net/templates/business-process-automation/files/functionappfiles/backendV50.zip?sp=racw&st=2024-11-29T16:08:03Z&se=2025-11-30T00:08:03Z&spr=https&sv=2022-11-02&sr=c&sig=VysFSaYtYOnN1Ty0cOx4hnVLDGag3tWJDpfEOMSrG3Y%3D"
             },
             {
               "name": "OPENAI_KEY",
